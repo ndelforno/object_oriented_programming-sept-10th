@@ -58,3 +58,9 @@ puts paperboy1.quota
 paperboy1.deliver(1,75)
 puts paperboy1.earnings
 puts paperboy1.report
+puts "---------------"
+# puts paperboy1.quota
+# puts paperboy1.experience
+# paperboy1.deliver(1,85)
+# puts paperboy1.earnings
+# puts paperboy1.report
